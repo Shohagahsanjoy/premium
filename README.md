@@ -16,4 +16,4 @@ git clone https://github.com/Shohagahsanjoy/premium
 
 cd premium
 
-python premium-pro.py
+python premium.py
